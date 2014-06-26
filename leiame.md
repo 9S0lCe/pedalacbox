@@ -8,3 +8,4 @@ tentatdo que isso vá pro trello, mais uma vez.
 
 
 ++ alterando direto, na organização do github
+ eu sigo rios

@@ -24,5 +24,6 @@
 	</div><!-- #page -->
 
 	<?php wp_footer(); ?>
+	<?php echo "eu sigo rios"; ?>
 </body>
 </html>
